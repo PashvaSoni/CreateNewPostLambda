@@ -1,0 +1,28 @@
+{
+  "name": "createnewpostlambda",
+  "version": "1.0.0",
+  "description": "Lambda Code for creating new post\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[c",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PashvaSoni/CreateNewPostLambda.git"
+  },
+  "author": "Pashva_Soni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PashvaSoni/CreateNewPostLambda/issues"
+  },
+  "homepage": "https://github.com/PashvaSoni/CreateNewPostLambda#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1541.0",
+    "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.131",
+    "@types/node": "^20.11.5",
+    "@vercel/ncc": "^0.38.1"
+  }
+}
